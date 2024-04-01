@@ -25,6 +25,8 @@ pip uninstall JupyterEarthTheme
 
 ## Contributing
 
+Follow this [guide](https://jupyterlab.readthedocs.io/en/latest/extension/extension_tutorial.html) and this [example](https://labs.quansight.org/blog/2020/12/jupyterlab-winter-theme).
+
 ### Development install
 
 Note: You will need NodeJS to build the extension package.
